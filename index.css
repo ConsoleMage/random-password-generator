@@ -1,3 +1,91 @@
-body {
-    margin: 0;
+.generator {
+    width: 550px;
+    height: 550px;
+    border: 2px solid transparent;
+    background: #1F2937;
+    margin: 50px auto;
+}
+
+h1 {
+    font-family: "Karla", sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #E5E7EB;
+    margin: 115px 52px 4px;
+}
+
+#password {
+    color: #10B981;
+}
+
+p {
+    font-family: "Inter", serif;
+    margin: 0px 52px;
+    width: 372px;
+    height: 28px;
+    top: 205px;
+    left: 52px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #E5E7EB;
+}
+
+button {
+    display: block;
+    width: 150px;
+    height: 42px;
+    gap: 12px;
+    border-radius: 6px;
+    opacity: 0px;
+    border: none;
+    margin: 40px 52px;
+    background: #10B981;
+    color: #E5E7EB;
+}
+
+hr {
+    width: 446px;
+    height: 0px;
+    top: 361px;
+    left: 52px;
+    gap: 0px;
+    border: 1px solid #2F3E53;
+    opacity: 0px;
+}
+
+#display {
+    display: flex;
+    justify-content: space-between;
+}
+
+#display-one {
+    margin-right: 0;
+    width: 210px;
+    height: 39px;
+    gap: 0px;
+    border-radius: 6px;
+    opacity: 0px;
+    background: #273549;
+
+}
+
+#display-two {
+    margin-left: 0;
+    width: 210px;
+    height: 39px;
+    gap: 0px;
+    border-radius: 6px;
+    opacity: 0px;
+    background: #273549;
 }
