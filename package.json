@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s00k58mkg3",
+  "description": "https://scrimba.com/s00k58mkg3/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
