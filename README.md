@@ -1,13 +1,8 @@
-# Random Password Generator
+# random-password-generator
 
-Tired of generating passwords with your own brain power? Fear no more! Password Generator can do just that!
+A password generator I did from scratch on Scrimba :D
 
-Jokes aside, this is a project I did from scratch while going through a Scrimba course, have fun :D
-
-![image](https://github.com/user-attachments/assets/2bd2aadd-643d-4ed5-9c68-441f03351b34)
-
-
-![image](https://github.com/user-attachments/assets/3a89e80c-d68e-4fa1-a5ee-a44387025493)
+![Screenshot 2024-12-11 135240](https://github.com/user-attachments/assets/5355fa10-38eb-4b64-ad40-6e5b09090c6e)
 
 DEMO
 
